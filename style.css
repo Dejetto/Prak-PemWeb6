@@ -1,0 +1,37 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+form {
+    align-content: center;
+    width: 300px;
+    background-color: crimson;
+    border-radius: 20px;
+    color: white;
+}
+input {
+    border-radius: 10px;
+}
+
+p {
+    color: white;
+}
+
+.desain-layout {
+    text-align: center;
+} 
+
+.box {
+    background-color: crimson;
+    width: 250px;
+    border-radius: 10px;
+} 
+
+button {
+    border: none;
+    background-color: maroon;
+    color: white;
+    border-radius: 10px;
+}
